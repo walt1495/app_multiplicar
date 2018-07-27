@@ -1,0 +1,14 @@
+{
+  "name": "app-terminal",
+  "version": "0.0.1",
+  "description": "Aplicación que hace uso de la linea de comandos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Walter Almestar",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.1"
+  }
+}
